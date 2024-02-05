@@ -1,0 +1,3 @@
+[submodule "sanjurepo"]
+	path = sanjurepo
+	url = https://github.com/chellsvalar/sanjurepo.git
